@@ -1,5 +1,3 @@
-MUNNA CODE
-
 const int EnableL = 10;
 const int HighL = 8;
 const int lowL = 9;
